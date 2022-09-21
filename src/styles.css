@@ -1,2 +1,4 @@
-body{
-}
+/* Tailwind CSS Utlity classes */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
